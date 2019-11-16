@@ -5,6 +5,7 @@ HELP.md
 build/
 !**/src/main/**
 !**/src/test/**
+help.txt
 
 ### STS ###
 .apt_generated
